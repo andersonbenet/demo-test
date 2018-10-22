@@ -67,5 +67,5 @@ Executar a class Runner.java
 
 
 Informações Gerais
-Para o atributo name está sendo passado dados utilizando o framework faker, uma vez que ao executar os desafios na sequência passada, o item 5 do desafio 2 irá falhar pois teremos 2 registros com o nome Teste Sicredi e não 1 como informa o requisito.  
+Para o atributo name estão sendo enviados dados utilizando o framework faker, yendo em vista que ao executar os desafios na sequência informada, o item 5 do desafio 2 irá falhar devido a existência de 2 registros com o nome Teste Sicredi e não 1 como informa o requisito.  
 
