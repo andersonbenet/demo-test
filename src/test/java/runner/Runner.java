@@ -7,6 +7,9 @@ import org.junit.runners.Suite.SuiteClasses;
 
 import test.CustomerTest;
 
+/*
+ * Author: andersondacruzbenet@gmail.com
+ */
 @RunWith(Categories.class)
 @IncludeCategory(CustomerTest.class)
 @SuiteClasses({CustomerTest.class})

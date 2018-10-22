@@ -10,7 +10,9 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-
+/*
+ * Author: andersondacruzbenet@gmail.com
+ */
 public class CustomerPage {
 	
 	public WebDriver driver;

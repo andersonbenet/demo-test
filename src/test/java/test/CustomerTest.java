@@ -11,6 +11,9 @@ import com.github.javafaker.Faker;
 
 import page.CustomerPage;
 
+/*
+ * Author: andersondacruzbenet@gmail.com
+ */
 public class CustomerTest {
 	Faker faker = new Faker();
 	CustomerPage customerPage = new CustomerPage();
